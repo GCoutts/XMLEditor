@@ -1,0 +1,13 @@
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\XMLEditor.Form1.resources
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\XMLEditor.Properties.Resources.resources
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\XMLEditor.exe
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\XMLEditor.pdb
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\nmock.dll
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\nunit.framework.dll
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\NUnitForms.dll
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\bin\Debug\NUnitForms.ScreenCapture.exe
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\XMLEditor.exe
+C:\Users\Graham\Desktop\Deployment\XMLEditor\XMLEditor\obj\x86\Debug\XMLEditor.pdb
